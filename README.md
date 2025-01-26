@@ -55,7 +55,7 @@ Energy access refers to the availability of reliable and affordable energy servi
 
 ## Contributing  
 
-We welcome contributions from everyone! Here's how you can help:  
+ Contributions are welcome from everyone! Here's how:  
 
 1. Fork this repository  
 2. Create a new branch  
